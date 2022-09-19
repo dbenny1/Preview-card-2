@@ -27,11 +27,6 @@
         background-repeat: no-repeat;
         background-position: center;
         cursor: pointer;
-        transition: all 200ms;
-    }
-
-    .img:hover {
-        transform: scale(1.001);
     }
 
     button {
